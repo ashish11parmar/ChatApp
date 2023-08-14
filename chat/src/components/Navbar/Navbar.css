@@ -1,0 +1,35 @@
+.text{
+    color: rgb(255, 255, 255);
+    margin: 0px 0px 0px 15px;
+}
+.btn-right{
+color: white;
+background: none;
+}
+.p-image{
+    display: flex;
+    justify-content: center;
+}
+.profile-image{
+    width : auto !important ;
+    border: 0px solid black;
+    border-radius: 50px;
+}
+.logout{
+    display: flex;
+    justify-content: center;
+}
+.btn-logout{
+   border: none;
+   background-color: rgb(93, 148, 231);
+   width: 100px;
+   height: 30px;
+}
+.name-text{
+    color: rgb(93, 148, 231);
+    font-weight: bold;
+}
+.email-text{
+    color: rgb(93, 148, 231);
+    font-weight: bold;
+}
