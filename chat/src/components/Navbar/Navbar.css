@@ -23,6 +23,7 @@ background: none;
    border: none;
    background-color: rgb(93, 148, 231);
    width: 100px;
+   text-decoration: none;
    height: 30px;
 }
 .name-text{

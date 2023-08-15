@@ -99,12 +99,13 @@
 .message{
  width: 93%;
  background-color: rgba(92, 72, 72, 0.116);
- height: 50px;
+ height: 46px;
  border: 1px solid darkgrey ;
  border-bottom-left-radius:20px ;
- padding: 0px 0px 0px 20px;
+ padding: 0px 0px 0px 7px;
 }
 .btn{
     height: 50px;
     width: 7%;
+    border-radius: 0px;
 }
